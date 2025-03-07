@@ -1,6 +1,6 @@
-APP_ID = '6541843'
-API_KEY = '6kE6ZEOvPbUxp7T26pV8CPA6'
-SECRET_KEY = 'oE5GDLr0S4pFkcMtnpBNyEQKDxO50fxG'
+APP_ID = ''
+API_KEY = ''
+SECRET_KEY = 'G'
 
 import wave
 import pyaudio

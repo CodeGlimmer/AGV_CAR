@@ -3,12 +3,12 @@ from audio import Audio
 import pyaudio
 
 # 百度api
-APP_ID = '6541843'
-API_KEY = '6kE6ZEOvPbUxp7T26pV8CPA6'
-SECRET_KEY = 'oE5GDLr0S4pFkcMtnpBNyEQKDxO50fxG'
+APP_ID = ''
+API_KEY = ''
+SECRET_KEY = ''
 
 # DeepSeek api
-DS_API_KEY = "sk-026be70f5fef45c380a46b8edcdb3f24"
+DS_API_KEY = ""
 
 
 # 录制参数
@@ -23,7 +23,7 @@ def main():
 
     client = OpenAI(
         base_url="https://api.deepseek.com/",
-        api_key="sk-026be70f5fef45c380a46b8edcdb3f24"
+        api_key="4"
     )
 
     # 初始化对话历史
